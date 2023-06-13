@@ -1,1 +1,3 @@
 # Assignment17-Laravel
+1.Explain what Laravel's query builder is and how it provides a simple and elegant way to interact with databases.
+Answer::: Laravel's query builder is a fluent interface that allows developers to build and execute database queries using a simple and elegant syntax. It provides a convenient way to interact with databases without having to write raw SQL queries. The query builder allows you to perform various database operations such as selecting, inserting, updating, and deleting records. It supports a wide range of database systems and provides methods for building complex queries with ease.
